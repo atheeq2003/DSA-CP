@@ -33,7 +33,7 @@ int main()
     }
     cout << endl;
 
-    // TEST 2
+    // TEST 3
     myVector = {3,1,2,10,1};
     output = runningSum(myVector);
     // Print the elements of the vector
@@ -41,5 +41,4 @@ int main()
         cout << output[i] << " ";
     }
     cout << endl;
-
 }
