@@ -1,4 +1,6 @@
+// 3099 - Harshad Number
 // Easy - Math
+// https://leetcode.com/problems/harshad-number/description/
 /* Inside the loop, it calculates the remainder of temp divided by 10 using the modulo operator %. This gives the last digit of temp. 
 It adds this digit to sumNumber.It then performs integer division of temp by 10 using the / operator. 
 This effectively removes the last digit from temp. */
