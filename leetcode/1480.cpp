@@ -3,7 +3,7 @@
 // https://leetcode.com/problems/running-sum-of-1d-array/description/
 #include<bits/stdc++.h>
 using namespace std;
-vector<int> runningSum(vector<int>& nums) {
+/*vector<int> runningSum(vector<int>& nums) {
     vector<int> rsarr(nums.size());
     int sum=0;
     for(int i=0;i<nums.size();i++)
@@ -12,6 +12,13 @@ vector<int> runningSum(vector<int>& nums) {
         rsarr[i]=sum;
     }
     return rsarr;
+}*/
+vector<int> runningSum(vector<int>& nums) {
+    for(int i=1;i<nums.size();i++)
+    {
+        nums[i]+=nums[i-1];
+    }
+    return nums;
 }
 int main()
 {
