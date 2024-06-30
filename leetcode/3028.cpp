@@ -1,3 +1,6 @@
+// 3028 - Ant on the Boundary
+// Easy - Array, Simulation, Prefix Sum
+// https://leetcode.com/problems/ant-on-the-boundary/description/
 #include<bits/stdc++.h>
 using namespace std;
 int returnToBoundaryCount(vector<int>& nums) {
