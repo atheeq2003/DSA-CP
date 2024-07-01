@@ -1,3 +1,6 @@
+// 1394 - Find Lucky Integer in an Array
+// Easy - Array, Hash Table, Counting
+// https://leetcode.com/problems/find-lucky-integer-in-an-array/description/
 #include<bits/stdc++.h>
 using namespace std;
 int findLucky(vector<int>& arr) {
