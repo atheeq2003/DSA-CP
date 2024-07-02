@@ -1,3 +1,6 @@
+// 1470 - Shuffle the Array
+// Easy - Array
+// https://leetcode.com/problems/shuffle-the-array/description/
 #include<bits/stdc++.h>
 using namespace std;
 vector<int> shuffle(vector<int>& nums, int n) {
