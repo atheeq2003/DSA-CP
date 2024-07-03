@@ -1,3 +1,6 @@
+// 1450 - Number of Students Doing Homework at a Given Time
+// Easy - Array
+// https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/
 #include<bits/stdc++.h>
 using namespace std;
 int busyStudent(vector<int>& startTime, vector<int>& endTime, int queryTime) {
