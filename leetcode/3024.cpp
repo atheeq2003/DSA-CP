@@ -1,3 +1,6 @@
+// 3024 - Type of Triangle
+// Easy - Array, Math, Sorting
+// https://leetcode.com/problems/type-of-triangle/description/
 #include<bits/stdc++.h>
 using namespace std;
 string triangleType(vector<int>& nums) {
