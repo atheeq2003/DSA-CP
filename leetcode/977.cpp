@@ -1,3 +1,6 @@
+// 977 - Squares of a Sorted Array
+// Easy - Array, Two Pointers, Sorting
+// https://leetcode.com/problems/squares-of-a-sorted-array/description/
 #include<bits/stdc++.h>
 using namespace std;
 vector<int> sortedSquares(vector<int>& nums) {
