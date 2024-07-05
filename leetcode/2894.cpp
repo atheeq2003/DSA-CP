@@ -1,3 +1,6 @@
+// 2894 - Divisible and Non-divisible Sums Difference
+// Easy - Math
+// https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/
 #include<bits/stdc++.h>
 using namespace std;
 int differenceOfSums(int n, int m) {
