@@ -1,3 +1,6 @@
+// 2798 - Number of Employees Who Met the Target
+// Easy - Array
+// https://leetcode.com/problems/number-of-employees-who-met-the-target/description/
 #include<bits/stdc++.h>
 using namespace std;
 int numberOfEmployeesWhoMetTarget(vector<int>& hours, int target) {
