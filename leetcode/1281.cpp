@@ -1,3 +1,6 @@
+// 1281 - Subtract the Product and Sum of Digits of an Integer
+// Easy - Math
+// https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/ 
 #include<bits/stdc++.h>
 using namespace std;
 int subtractProductAndSum(int n) {
