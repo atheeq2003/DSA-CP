@@ -1,3 +1,6 @@
+// 2778 - Sum of Squares of Special Elements 
+// Easy - Array, Enumeration
+// https://leetcode.com/problems/sum-of-squares-of-special-elements/description/
 #include<bits/stdc++.h>
 using namespace std;
 int sumOfSquares(vector<int>& nums) {
