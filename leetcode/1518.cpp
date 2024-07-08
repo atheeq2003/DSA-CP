@@ -1,3 +1,6 @@
+// 1518 - Water Bottles
+// Easy - Math, Simulation
+// https://leetcode.com/problems/water-bottles/description/
 #include<bits/stdc++.h>
 using namespace std;
 int numWaterBottles(int numBottles, int numExchange) {
