@@ -1,3 +1,6 @@
+// 1701 - Average Waiting Time
+// Medium - Array, Simulation
+// https://leetcode.com/problems/average-waiting-time/description/
 #include<bits/stdc++.h>
 using namespace std;
 double averageWaitingTime(vector<vector<int>>& customers) {
