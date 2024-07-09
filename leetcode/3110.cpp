@@ -1,3 +1,6 @@
+// 3110 - Score of a String
+// Easy - String
+// https://leetcode.com/problems/score-of-a-string/description/
 #include<bits/stdc++.h>
 using namespace std;
 int scoreOfString(string s) {
