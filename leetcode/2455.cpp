@@ -1,3 +1,6 @@
+// 2455 - Average Value of Even Numbers That Are Divisible by Three
+// Easy - Array, Math
+// https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/
 #include<bits/stdc++.h>
 using namespace std;
 int averageValue(vector <int>& nums) {
