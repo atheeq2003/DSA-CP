@@ -1,3 +1,6 @@
+// 1446 - Consecutive Characters
+// Easy - String
+// https://leetcode.com/problems/consecutive-characters/description/
 #include<bits/stdc++.h>
 using namespace std;
 int maxPower(string s) {
