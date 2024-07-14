@@ -1,3 +1,6 @@
+// 2185 - Counting Words With a Given Prefix
+// Easy - Array, String, String Matching
+// https://leetcode.com/problems/counting-words-with-a-given-prefix/description/
 #include<bits/stdc++.h>
 using namespace std;
 int prefixCount(vector<string>& words, string pref) {
