@@ -1,5 +1,3 @@
-// 9 - Palindrome Number
-// Easy - Math
 // https://leetcode.com/problems/palindrome-number/description/
 #include<bits/stdc++.h>
 using namespace std;
