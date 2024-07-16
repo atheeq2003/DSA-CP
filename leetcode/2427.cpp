@@ -1,3 +1,6 @@
+// 2427 - Number of Common Factors
+// Easy - Math, Enumeration, Number Theory
+// https://leetcode.com/problems/number-of-common-factors/description/
 #include<bits/stdc++.h>
 using namespace std;
 int commonFactors(int a, int b) {
