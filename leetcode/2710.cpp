@@ -1,3 +1,6 @@
+// 2710 - Remove Trailing Zeros From a String
+// Easy - String
+// https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/
 #include<bits/stdc++.h>
 using namespace std;
 string removeTrailingZeros(string num) {
