@@ -1,3 +1,6 @@
+// 800  - A
+// 1899 - Game With Integers (games, math, number theory)
+// https://codeforces.com/problemset/problem/1899/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
