@@ -1,3 +1,6 @@
+// 800  - A
+// 1900 - Cover In Water (constructive algorithms, greedy, implementation, strings)
+// https://codeforces.com/problemset/problem/1900/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {

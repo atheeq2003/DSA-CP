@@ -1,5 +1,5 @@
 // 800  - A
-// 1901 - Line Trip
+// 1901 - Line Trip (greedy, math)
 // https://codeforces.com/problemset/problem/1901/A
 #include <bits/stdc++.h>
 using namespace std;

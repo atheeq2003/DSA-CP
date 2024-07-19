@@ -1,5 +1,5 @@
 // 800  - A
-// 1903 - Halloumi Boxes
+// 1903 - Halloumi Boxes (brute force, greedy, sortings)
 // https://codeforces.com/problemset/problem/1903/A
 #include<bits/stdc++.h>
 using namespace std;
