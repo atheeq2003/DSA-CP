@@ -1,3 +1,6 @@
+// 800  - A
+// 1890 - Doremy's Paint 3 (Constructive Algorithms)
+// https://codeforces.com/problemset/problem/1890/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
