@@ -1,3 +1,6 @@
+// 800  - A
+// 1881 - Don't Try to Count (brute force, strings)
+// https://codeforces.com/problemset/problem/1881/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
