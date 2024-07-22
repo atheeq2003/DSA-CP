@@ -1,3 +1,6 @@
+// 800  - A
+// 1877 - Goals of Victory (math)
+// https://codeforces.com/problemset/problem/1878/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
