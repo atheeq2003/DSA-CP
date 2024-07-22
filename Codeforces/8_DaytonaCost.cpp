@@ -1,6 +1,6 @@
 // 800  - A
 // 1878 - How Much Does Daytona Cost? (greedy)
-// https://codeforces.com/problemset/problem/1878/A
+// https://codeforces.com/problemset/problem/1877/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
