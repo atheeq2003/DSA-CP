@@ -1,3 +1,6 @@
+// 800  - C
+// 1873 - Target Practice (implementation, math)
+// https://codeforces.com/problemset/problem/1873/C
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
