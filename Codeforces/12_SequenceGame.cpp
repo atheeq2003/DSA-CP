@@ -1,3 +1,6 @@
+// 800  - B
+// 1862 - Sequence Game (constructive algorithms)
+// https://codeforces.com/problemset/problem/1862/B
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
