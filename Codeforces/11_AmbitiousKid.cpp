@@ -1,3 +1,6 @@
+// 800  - A
+// 1866 - Ambitious Kid (math)
+// https://codeforces.com/problemset/problem/1866/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
