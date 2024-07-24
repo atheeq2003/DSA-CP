@@ -1,3 +1,6 @@
+// 800  - A
+// 1858 - Buttons (games, greedy, math)
+// https://codeforces.com/problemset/problem/1858/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
