@@ -1,3 +1,6 @@
+// 800  - A
+// 1831 - Twin Permutations (constructive algorithms)
+// https://codeforces.com/problemset/problem/1831/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
