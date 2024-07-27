@@ -1,3 +1,6 @@
+// 800  - A
+// 1837 - Grasshopper on a Line (constructive algorithms, math)
+// https://codeforces.com/problemset/problem/1837/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
