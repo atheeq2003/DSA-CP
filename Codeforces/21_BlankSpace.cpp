@@ -1,5 +1,5 @@
 // 800  - B
-// 1829 -  Blank Space (implementation)
+// 1829 - Blank Space (implementation)
 // https://codeforces.com/problemset/problem/1829/B
 #include<bits/stdc++.h>
 using namespace std;
