@@ -1,3 +1,6 @@
+// 800  - A
+// 1834 - Unit Array (greedy, math)
+// https://codeforces.com/problemset/problem/1834/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
