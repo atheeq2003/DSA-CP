@@ -1,3 +1,6 @@
+// 800  - A
+// 1788 - One and Two (brute force, implementation, math)
+// https://codeforces.com/contest/1788/problem/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
