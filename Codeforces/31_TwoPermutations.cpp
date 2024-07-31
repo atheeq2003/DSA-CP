@@ -1,3 +1,6 @@
+// 800  - A
+// 1761 - Two Permutations (brute force, constructive algorithms)
+// https://codeforces.com/problemset/problem/1761/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
