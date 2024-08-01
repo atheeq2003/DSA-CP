@@ -1,3 +1,6 @@
+// 800  - A
+// 1777 - Everybody Likes Good Arrays! (greedy, math)
+// https://codeforces.com/problemset/problem/1777/A
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
