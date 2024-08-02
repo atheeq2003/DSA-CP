@@ -1,3 +1,6 @@
+// 800  - A
+// 1783 - Make it Beautiful (constructive algorithms, math, sortings)
+// https://codeforces.com/problemset/problem/1783/A
 #include<bits/stdc++.h>
 using namespace std;
 int T,n,a[100];
