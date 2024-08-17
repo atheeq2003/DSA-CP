@@ -17,7 +17,7 @@ int main() {
             {
                 s[i] = t[j];
                 i++;
-                j++;
+                j++;       
             }
             else
             {
