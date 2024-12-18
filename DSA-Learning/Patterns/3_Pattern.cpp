@@ -10,7 +10,7 @@ int main() {
     int n;
     cin >> n;
     for(int i = 0 ; i < n; i++) {
-        char ch = 'A';
+        char ch = 'A'; // Start with letter which you want to be printed first
         for(int j = 0; j < n; j++) {
             cout << ch << " ";
             ch = ch + 1;
