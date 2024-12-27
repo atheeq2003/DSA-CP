@@ -1,3 +1,4 @@
+// Reverse the array using two pointer approach 
 #include<bits/stdc++.h>
 using namespace std;
 void revArray(int arr[], int n) {
