@@ -12,10 +12,15 @@ int smallInt(int arr[], int n) {
 int main() {
     int small = INT_MAX;
     int arr[] = {5, 15, 22, 1, -15, 24};
-    int n = sizeof(arr) - sizeof(arr[0]);
+    int n = sizeof(arr) / sizeof(arr[0]);
     cout << smallInt(arr, n) << endl;
+    int index = 0;
     for(int i = 0; i < n; i++) {
         small = min(arr[i], small);
+        if(small == arr[i]) {
+            index = i;
+        }
     }
-    cout << small << endl;
+    cout << "Smallest Num: " << small << endl;
+    cout << "Index of small num : " << index << endl;
 }

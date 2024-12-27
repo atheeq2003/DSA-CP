@@ -15,9 +15,15 @@ int main() {
     int large = INT_MIN;
     int arr[] = {10, -15, 35, 0, 90, 100};
     int n = sizeof(arr) / sizeof(arr[0]);
+    cout << sizeof(arr) << " " << sizeof(arr[0]) << endl;
     cout << largeNum(arr, n) << endl;
+    int index = 0;
     for(int i = 0; i < n; i++) {
         large = max(arr[i], large);
+        if(large == arr[i]) {
+            index = i;
+        }
     }
-    cout << large << endl;
+    cout << "Largest Num: " << large << endl;
+    cout << "Index of Largest Num: " << index << endl;
 }
