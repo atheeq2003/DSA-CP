@@ -1,4 +1,5 @@
 // Brute Force Approach
+// 231. Power of Two -> https://leetcode.com/problems/power-of-two/description/
 #include<bits/stdc++.h>
 using namespace std;
 bool bruteForce(int num) {
