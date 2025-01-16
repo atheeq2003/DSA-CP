@@ -37,6 +37,7 @@ vector<int> betterApp(vector<int> arr, int target) {
             return ans2;
         }
     }
+    return ans2;
 }
 // O(n^2)
 vector<int> bruteForce(vector<int> arr, int target) {
