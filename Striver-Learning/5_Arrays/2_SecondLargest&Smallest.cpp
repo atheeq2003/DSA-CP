@@ -43,6 +43,7 @@ void secondLargeSmallOptimised(vector<int> arr) {
     int secondMax = INT_MIN;
     int secondMin = INT_MAX;
     for(int i = 0; i < arr.size(); i++) {
+        // 2, 3, 1, 9, 8
         if(arr[i] > max) {
             secondMax = max;
             max = arr[i];
