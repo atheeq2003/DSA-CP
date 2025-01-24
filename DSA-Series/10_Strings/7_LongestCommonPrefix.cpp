@@ -2,6 +2,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// TC: O(nxm) SC: O(1)
 string longestCommonPrefixOptimal(vector<string> strs) {
     for(int i = 0; i < strs[0].length(); i++) {
         char c = strs[0][i];
@@ -14,6 +15,7 @@ string longestCommonPrefixOptimal(vector<string> strs) {
     return strs[0];
 }
 
+// TC: O(nlogn) SC: O(1)
 string longestCommonPrefixBrute(vector<string> strs) {
     sort(strs.begin(), strs.end());
     for(string str : strs) {
