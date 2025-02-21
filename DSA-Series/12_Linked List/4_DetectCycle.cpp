@@ -2,6 +2,7 @@
 // 142. Linked List Cycle II -> https://leetcode.com/problems/linked-list-cycle-ii/description/
 #include<bits/stdc++.h>
 using namespace std;
+
 class Node {
 public:
     int data;

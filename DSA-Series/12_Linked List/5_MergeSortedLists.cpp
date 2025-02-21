@@ -1,6 +1,7 @@
 // 21. Merge Two Sorted Lists -> https://leetcode.com/problems/merge-two-sorted-lists/description/
 #include<bits/stdc++.h>
 using namespace std;
+
 class Node {
 public:
     int data;

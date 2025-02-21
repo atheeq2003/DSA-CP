@@ -1,6 +1,7 @@
 // 234. Palindrome Linked List -> https://leetcode.com/problems/palindrome-linked-list/description/
 #include<bits/stdc++.h>
 using namespace std;
+
 class Node {
 public:
     int data;
