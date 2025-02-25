@@ -2,7 +2,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Node definition for the multilevel doubly linked list
 class Node {
 public:
     int data;
