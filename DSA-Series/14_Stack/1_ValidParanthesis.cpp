@@ -9,7 +9,7 @@ bool isValid(string str) {
             st.push(i);
         }
         else {
-            if(st.empty()) {
+            if(st.empty()) { // {()}]
                 return false;
             }
             else {
@@ -17,12 +17,12 @@ bool isValid(string str) {
                     st.pop();
                 }
                 else {
-                    return false;
+                    return false; // [{(]}]
                 }
             }
         }
     }
-    return st.empty();
+    return st.empty(); // {([]
 }
 
 int main() {
