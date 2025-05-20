@@ -1,4 +1,4 @@
-// 144. Binary Tree Preorder Traversal -> https://leetcode.com/problems/binary-tree-preorder-traversal/description/?envType=problem-list-v2&envId=binary-tree
+// 144. Binary Tree Preorder Traversal -> https://leetcode.com/problems/binary-tree-preorder-traversal/
 #include<bits/stdc++.h>
 using namespace std;
 class Node {
@@ -29,7 +29,7 @@ void preOrderTraversal(Node* root) {
     if(root == nullptr) {
         return;
     }
-    cout << root->data;
+    cout << root->data << " ";
     preOrderTraversal(root->left);
     preOrderTraversal(root->right);
 }
