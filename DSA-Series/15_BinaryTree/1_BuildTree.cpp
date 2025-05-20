@@ -27,4 +27,5 @@ Node* buildTree(vector<int> preOrderSeq) {
 int main() {
     vector<int> preOrderSeq = {1,2,-1,-1,3,4,-1,-1,5,-1,-1};
     Node* root = buildTree(preOrderSeq);
+    cout << root->data << endl;
 }
